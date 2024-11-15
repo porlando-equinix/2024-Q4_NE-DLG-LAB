@@ -9,8 +9,8 @@ terraform {
 
 provider "equinix" {
   #auth_token = "your metal API key"
-  client_id = "M1eXL7cUJEAynpijfdiEvocASSh58V60xzFfBN6B9AcpJTIh"
-  client_secret = "zzXJq8GQeNsdLK3Y7TeTf6WS1nEyiG5QSZRhGaCYFNhBnuYqZAgsAGWkYw8vynsN"
+  client_id = ""
+  client_secret = ""
 
 }
 
